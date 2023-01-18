@@ -1,0 +1,15 @@
+@import "./base/reset";
+
+// variables
+@import "./abstracts/colors";
+@import "./abstracts/variables";
+
+// Layout
+@import "./layout/header";
+@import "./layout/main";
+@import "./layout/footer";
+
+// Pages
+@import "./pages/home";
+@import "./pages/series";
+@import "./pages/login";
